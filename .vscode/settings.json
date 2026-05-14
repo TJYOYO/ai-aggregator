@@ -1,0 +1,6 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/mcp/demo-mcp/.venv/bin/python",
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}/mcp/demo-mcp/.venv/lib/python3.13/site-packages"
+  ]
+}
