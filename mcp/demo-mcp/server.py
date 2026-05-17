@@ -16,5 +16,8 @@ def hello(name: str) -> str:
     return f"Hello {name}"
 
 
+import tools  # noqa: E402,F401
+
+
 if __name__ == "__main__":
     mcp.run()
